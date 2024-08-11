@@ -9,12 +9,14 @@ RESTful CRUD API with Node.js, Express and MongoDB
 > - Insomnia
 
 ### Application Architecture:
-![image](https://github.com/user-attachments/assets/fba2db4b-0238-41e6-8201-c2bc96709966)
-![image](https://github.com/user-attachments/assets/91e7881c-a47b-4d44-bceb-2247e9dc8a82)
+![image](https://github.com/user-attachments/assets/24c3aa43-f90d-4e6e-a3fb-2c3ea5997326)
+![image](https://github.com/user-attachments/assets/bf7b39a7-f8e5-4b7d-9951-a4c50452869a)
 
 
 ### API Endpoints (CRUD):
-![image](https://github.com/user-attachments/assets/93ff753f-45d1-4e10-8831-9ff17e4cb06d)
+![image](https://github.com/user-attachments/assets/bbdb2a8b-8665-4d6e-937a-033a9e1336aa)
+
 
 ### MongoDB Database:
-![image](https://github.com/user-attachments/assets/d9b1f63d-c699-47a0-ba26-0c9dee12eca2)
+![image](https://github.com/user-attachments/assets/e17d9775-983d-462d-a4f8-1d949d98d33c)
+
