@@ -15,10 +15,11 @@ RESTful CRUD API with Node.js, Express and MongoDB
 
 ### API Endpoints (CRUD):
 ![image](https://github.com/user-attachments/assets/bbdb2a8b-8665-4d6e-937a-033a9e1336aa)
-### [HttpGet] Retrieves Product by ID or all Products, returns Location header with link to resource and the '200' status code.
-### [HttpPost] Saves a new product, returns Location header with link to resourceas and the '200' status code.
-### [HttpPut] Updates existing product by ID, returns Location header with link to resource and the '200' status code.
-### [HttpDelete] Creates a product by ID, returns Location header with link to resource and the '200' status code.
+## [HttpGet] Retrieves Product by ID or all Products, returns Location header with link to resource and the '200' status code.
+## [HttpPost] Saves a new product, returns Location header with link to resourceas and the '200' status code.
+## [HttpPut] Updates existing product by ID, returns Location header with link to resource and the '200' status code.
+## [HttpDelete] Creates a product by ID, returns Location header with link to resource and the '200' status code.
+
 
 ### MongoDB Database:
 ![image](https://github.com/user-attachments/assets/e17d9775-983d-462d-a4f8-1d949d98d33c)
